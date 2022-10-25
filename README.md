@@ -1,7 +1,7 @@
 
 # Criando Cronômetro  
 
-Um Cronômetro com varias funcionalidades muito legais.
+Um Cronômetro com varias funcionalidades muito legais criada no JavaScript.
 
 
 ## Aprendizados
